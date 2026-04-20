@@ -1,0 +1,10 @@
+{
+  "system": [
+    { "name": "server1", "cpu": "x86_64", "status": "active" },
+    { "name": "server2", "cpu": "arm64", "status": "inactive" }
+  ],
+  "group": [
+    { "name": "web-servers" },
+    { "name": "db-servers" }
+  ]
+}
